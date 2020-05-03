@@ -1,7 +1,7 @@
 landing_style: style1-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: "&copy; McKenzie Law Office. All rights reserved."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: Made by wexagon
+    url: https://www.wexagon.com
     new_window: true
