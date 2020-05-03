@@ -3,15 +3,3 @@
  *
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
-```javascript
-const webpack = require(`webpack`)
-exports.onCreateWebpackConfig = ({ actions }) => {
-  actions.setWebpackConfig({
-    plugins: [
-      new webpack.IgnorePlugin({
-        resourceRegExp: /^netlify-identity-widget$/,
-      }),
-    ],
-  })
-}
-```
